@@ -1,6 +1,6 @@
 ## Hi there 👋
 
 My interests are...
-- Machine Learning in Healthcare
+- Machine Learning in Medicine
 - Explainable Artificial Intelligence
-- iOS Mobile App Development
+- Efficient Deployment of Deep Neural Networks
